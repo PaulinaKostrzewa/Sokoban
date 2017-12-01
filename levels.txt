@@ -1,0 +1,271 @@
+; W tym pliku mozna latwo modyfikowac lub tworzyc nowe poziomy
+;
+;	OZNACZENIA:
+;   @ - pozycja startowa ludzika
+;   $ - pozycja startowa skrzynki
+;   . - pozycja gdzie znajduje sie cel
+;   + - pozycja gdzie znajduje sie ludzik i cel
+;   * - pozycja gdzie znajduje sie skrzynka i cel
+;  (space) - podloga
+;   # - mur
+;
+; Poziomy oddzielone sa pustymi liniami
+; Ponizsze poziomy pochodza ze strony:
+; http://www.onlinespiele-sammlung.de/sokoban/sokobangames/skinner/
+; mozna w tym pliku latwo modyfikowac lub tworzyc nowe poziomy
+;
+;	OZNACZENIA:
+;   @ - pozycja startowa ludzika
+;   $ - pozycja startowa skrzynki
+;   . - pozycja gdzie znajduje sie cel
+;   + - pozycja gdzie znajduje sie ludzik i cel
+;   * - pozycja gdzie znajduje sie skrzynka i cel
+;  (space) - podloga
+;   # - mur
+;
+; Poziomy oddzielone sa pustymi liniami
+; Starting demo level:
+ ########
+##      #
+#   .   #
+#   $   #
+# .$@$. #
+####$   #
+   #.   #
+   #   ##
+   #####   
+   
+; demo nr 2:
+########
+###   ##
+#  @# ##
+# #$ . #
+#    # #
+## #   #
+##   ###
+########
+
+;
+;
+;
+; Ponizsze poziomy pochodza ze strony:
+; http://www.onlinespiele-sammlung.de/sokoban/sokobangames/skinner/
+;
+; Sasquatch Set I
+;
+; 1
+
+   ###
+  ## # ####
+ ##  ###  #
+## $      #
+#   @$ #  #
+### $###  #
+  #  #..  #
+ ## ##.# ##
+ #      ##
+ #     ##
+ #######
+
+; 2
+
+ ## #####
+## ## . #
+# ## $. #
+ ## $   #
+## $@ ###
+# $  ##
+#.. ## ##
+#   # ##
+##### #
+
+
+; 4
+
+  ###########
+ ##     #  @#
+### $ $$#   #
+# ##$    $$ #
+#  #  $ #   #
+###### ######
+#.. ..$ #*##
+# ..    ###
+#  ..#####
+#########
+
+
+; 6
+
+  ###########
+###.  .$.  .###
+ ## $  $  $ ##
+  ## ..$.. ##
+   ##$#$#$##
+    #.$ $.#
+    #  @  #
+    ### ###
+   ## $ $ ##
+   #.  $  .#
+   ### . ###
+     #####
+
+
+; 8
+
+    #######
+    #     ##
+##### ###  ##
+#       #  ##
+#@$***. ##$ #
+#  #    ## .#
+##  ##  # $ #
+ ##  ####.$.#
+  ##        #
+   ######  ##
+        ####
+
+; 9
+
+#########
+#. .    #
+#.$. .  #
+## ###@ #
+ #  $  ##
+ # $$ ##
+ #  $ #
+ #  ###
+ ####
+
+
+
+; 11
+
+  ####
+###  ####
+#   @   ##
+# #. .#.###
+# $$$ $$$ #
+###.#.#.# #
+ ##       #
+  ####  ###
+     ####
+
+
+
+; 14
+
+ #######
+##     # #
+#  *.$.#
+#  *.#.###
+# #$@$$  #
+#   ## # #
+######   #
+     #####
+
+; 15
+
+   ####
+   #@ #
+  ##  #
+  # .$#
+  #$. #
+###..$###
+#  ..$  #
+# $ $ # #
+##### # #
+    #   #
+    #####
+
+
+
+
+
+
+; 20
+
+     ####
+     #  #
+######$.#
+#   $ $.#
+# $@$...#
+# $$$..##
+#  $ ..#
+########
+
+; 21
+
+##### ########
+#   ### . $  #
+#   $ *.. #$ ##
+## $# ..* $  @#
+ #  $ . ###   #
+ ######## #####
+
+
+; 23
+
+     #######
+######     ######
+#  . ..$#$.. .  #
+#  $ $  .  $ $  #
+###$####@####$###
+#  $ $  .  $ $  #
+#  . ..$#$.. .  #
+######     ######
+     #######
+
+; 31
+
+       #########
+       ###    ##  ####
+#####  #    * ##  #  #
+#   #### ****  ####$.##
+# .$      *@*      $. #
+##.$####  **** ####   #
+ #  #  ## *    #  #####
+ ####  ##    ###
+       #########
+
+
+     #####
+  ####   #
+  #  . # ###
+  # $. $ $ #
+  # #.## $ #
+###@#..#$  #
+#   ##.#  ##
+# $ $ .# $#
+## ###.## #
+ #        #
+ #####  ###
+     ####
+
+; 8
+
+     #########
+ #####       #
+##      #### #
+# $ #  @ *..*###
+#  #  # #....  #
+#  #$#  #....  #
+# $# # ##$###  #
+#    #$       ##
+##  $  $#  ####
+ ##  $  ####
+  ### $$ #   #
+    #    # ###
+    ######
+
+  $  $ #
+##  #  ### ##  #
+#  ## ###  #  ##
+# $  $  # ## ###
+#  # .#  $. $  #
+##.## ###  # . #
+# $# $  # ### ##
+# . . #@ $ .$. #
+#  #  ##   #   #
+################
+
+
