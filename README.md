@@ -1,8 +1,9 @@
 # Sokoban Game 
 
 main file: gra_sokoban_pmurawska.py
-w programie załączona jest linika sys.path.append('/usr/local/lib/python3.6/dist-packages') ktora prawdopodobnie trzeba usunac 
-mi ona umozliwiala znalezienie pakietu pygame
+
+W programie załączona jest linika sys.path.append('/usr/local/lib/python3.6/dist-packages') 
+którą prawdopodobnie trzeba usunać (mi ona umożliwiała znalezienie pakietu pygame).
 
 
 ## Autor
