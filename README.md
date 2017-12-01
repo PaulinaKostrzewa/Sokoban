@@ -7,7 +7,7 @@ mi ona umozliwiala znalezienie pakietu pygame
 
 ## Autor
 
-* Paulina Murawska
+Paulina Murawska
 
 ## Zrodla:
 muzyka: http://soundimage.org
